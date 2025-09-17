@@ -7,3 +7,10 @@ lista.remove(20)
 lista.remove(10)
 
 print(lista)
+
+
+'''
+append() -> adiciona um elemento ao final da lista
+pop() -> remove um elemento pelo índice
+
+'''
